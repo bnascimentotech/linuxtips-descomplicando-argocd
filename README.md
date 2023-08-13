@@ -3,5 +3,5 @@ Arquivos da práticas da aula  "Descomplicando ArgoCD" - LinuxTips.
 
 ---
 
-* Link: https://www.linuxtips.io/course/desafio-argocd-101.
+* Link: https://github.com/badtuxx/k8s-deploy-nginx-example (sample files).
 * Idioma: Português do Brasil.
